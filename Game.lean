@@ -1,11 +1,12 @@
 import Game.Levels.DemoWorld
 
 -- Here's what we'll put on the title screen
-Title "Hello World Game"
+Title "Rank-Nullity Theorem"
+
+
 Introduction
 "
-This text appears on the starting page where one selects the world/level to play.
-You can use **markdown**.
+This is a game to learn how to prove the Rank-Nullity Theorem. 
 "
 
 Info "
