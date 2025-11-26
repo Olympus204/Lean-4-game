@@ -1,8 +1,8 @@
 import Game.Levels.DemoWorld.L01_HelloWorld
 
 World "DemoWorld"
-Title "Demo World"
+Title "Introduction to the Rank-Nullity Theorem"
 
 Introduction "
-This introduction is shown before one enters level 1 of the demo world. Use markdown.
+This is the first level of the proof of the Rank-Nullity Theorem
 "
